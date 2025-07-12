@@ -18,7 +18,7 @@ Customer details: ZIP code, order item ID.
 🐍 Python Requirements
 Let's jump into the Python packages you need. Within the Python environment of your choice, run:
 
-git clone https://github.com/ayush714/retail-price-optimization-mlops.git
+git clone https://github.com/wizardxd077/retailpriceoptimization1.git
 pip install -r requirements.txt
 Starting with ZenML 0.20.0, ZenML comes bundled with a React-based dashboard. This dashboard allows you to observe your stacks, stack components and pipeline DAGs in a dashboard interface. To access this, you need to launch the ZenML Server and Dashboard locally, but first you must install the optional dependencies for the ZenML server:
 
